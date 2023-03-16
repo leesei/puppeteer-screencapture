@@ -8,11 +8,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "engines": {
-    "node": ">=18.12.0"
+    "node": ">=18.15.3"
   },
   "author": "leesei <leesei@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "puppeteer": "^19.6.3"
+    "puppeteer": "^19.7.5"
   }
 }
